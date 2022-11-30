@@ -1,4 +1,4 @@
-# Tahoes Rides
+# Tahoes Rides (development version)
 
 Lake Tahoe ride sharing app where users can post rides needed or offered to a community of logged in users.
 
